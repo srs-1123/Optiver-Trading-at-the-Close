@@ -1,1 +1,3 @@
-/data/train.csv
+pyproject.toml
+.python-version
+data/
