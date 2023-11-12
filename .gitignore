@@ -1,3 +1,5 @@
 pyproject.toml
 .python-version
 data/
+requirements-dev.lock
+requirements.lock
